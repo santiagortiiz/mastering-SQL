@@ -1,0 +1,3 @@
+REVOKE ALL
+ON ALL TABLES IN SCHEMA public
+FROM development;

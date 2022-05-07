@@ -1,0 +1,15 @@
+# Standard libraries
+python-dotenv
+numpy
+pandas
+
+# Postgresql
+psycopg2
+
+# SQLAlchemy
+SQLAlchemy
+
+# Mongodb
+pymongo
+dnspython
+certifi

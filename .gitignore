@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+venv.bak/
+
+# Environment variables
+.env
+
+# Python Cache
+__pycache__/
+
+# Backups
+backups/
+
+# ERDs
+EER_Diagrams/
+
+# Mocks
+mocks/
